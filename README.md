@@ -9,6 +9,7 @@
 <!-- $ sudo apt update && apt install -y libgl1-mesa-glx libsm6 libxext6 libxrender-dev -->
 
 ```bash
+$ https://github.com/Maximgitman/cigarette_detection.git
 $ pip install -r requirements.txt
 ```
 <details open>
