@@ -24,4 +24,4 @@ $ python detect.py --source img.jpg  # image
                             vid.mp4 or .mov # video
 
 ```
-Для парсинга картинок из google, использовал модуль scrap.py в данной. Модуль можно найти в это репозитории.
+Для парсинга картинок из google, использовал модуль scrap.py.
